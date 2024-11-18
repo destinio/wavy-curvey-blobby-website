@@ -11,3 +11,4 @@ git clone <this-repo>
 npx serve
 ```
 
+**Note: There are no free stickers here!!**
